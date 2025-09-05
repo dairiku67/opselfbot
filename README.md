@@ -10,6 +10,6 @@
 ```bash
 pip install -r requirements.txt
 
-```Clone the repository:
+```bash
 git clone https://github.com/dairiku67/opselfbot.git
 cd opselfbot
