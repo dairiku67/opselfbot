@@ -8,8 +8,5 @@
 - `.env` file with your bot token (never upload your token to GitHub!)
 
 ```bash
-pip install -r requirements.txt
-
-```bash
 git clone https://github.com/dairiku67/opselfbot.git
 cd opselfbot
