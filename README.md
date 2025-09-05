@@ -10,10 +10,3 @@
 ```bash
 git clone https://github.com/dairiku67/opselfbot.git
 cd opselfbot
----
-
-### 3. Save & Push to GitHub
-```bash
-git add README.md
-git commit -m "Add installation instructions"
-git push
